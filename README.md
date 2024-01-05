@@ -1,5 +1,12 @@
 # WineQuality-Prediction-Using-MLOPS---II
 
+# Procedure of Creating a Environment
+
+<!-- pip install virtualenv (if not installed)
+
+virtualenv myenv  # Replace "myenv" with the name you want for your environment -->
+
+
 # environment = wineq_env
 # Activate the env by pasting this on gitbash => source wineq_env/Scripts/activate 
 
