@@ -25,3 +25,11 @@ virtualenv myenv  # Replace "myenv" with the name you want for your environment 
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+# MLflow Commands for Dagshub Experiment
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/harsh-priyam/WineQuality-Prediction-Using-MLOPS---II.mlflow
+export MLFLOW_TRACKING_USERNAME=harsh-priyam
+export MLFLOW_TRACKING_PASSWORD=d34676be0f7f95c5afd000a5be7be52ce1ba8d12
+python script.py
