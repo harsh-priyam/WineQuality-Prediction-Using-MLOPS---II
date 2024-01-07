@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/Downloads/WineQuality-Prediction-Using-MLOPS---II/mlruns/0/b93313bd2d024f54a660b6edcb956aca/artifacts
+end_time: 1704658084594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93313bd2d024f54a660b6edcb956aca
+run_name: zealous-stork-14
+run_uuid: b93313bd2d024f54a660b6edcb956aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704658077333
+status: 3
+tags: []
+user_id: HarshPriyam

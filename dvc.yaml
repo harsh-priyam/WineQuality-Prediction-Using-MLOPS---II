@@ -1,0 +1,8 @@
+stages:
+  data_ingestion:
+    cmd: python src/mlProject/pipeline/stage_01_data_engestion.py
+    deps:
+      - src/cnnClassifier/pipeline/stage_01_data_engestion.py
+      - config/config.yaml
+    outs:
+      - artifacts/data_ingestion/Data
