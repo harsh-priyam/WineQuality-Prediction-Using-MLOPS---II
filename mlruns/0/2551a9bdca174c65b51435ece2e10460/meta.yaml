@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aarav/Downloads/WineQuality-Prediction-Using-MLOPS---II/mlruns/0/2551a9bdca174c65b51435ece2e10460/artifacts
+end_time: 1704637683370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2551a9bdca174c65b51435ece2e10460
+run_name: mysterious-snake-104
+run_uuid: 2551a9bdca174c65b51435ece2e10460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704637677849
+status: 3
+tags: []
+user_id: HarshPriyam
